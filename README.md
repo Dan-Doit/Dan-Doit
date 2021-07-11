@@ -7,7 +7,7 @@
 ### Connect with me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spqjeks@gmail.com)](mailto:spqjeks@gmail.com)
 or
-[![Naver Badge](https://img.shields.io/badge/Naver-dcffe4?style=flat-square&logo=Naver&logoColor=white&link=mailto:spqjeks@naver.com)](mailto:spqjeks@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-dcffe4?style=flat-square&logo=Naver&link=mailto:spqjeks@naver.com)](mailto:spqjeks@naver.com)
   
 
 <!--
