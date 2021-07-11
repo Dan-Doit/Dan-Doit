@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Learn with me!
-[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20blog-blue?style=flat-square&logo=tistory&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
+[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20blog-blue?style=#1AB7EA&logo=Viemo&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
 [![Past Blog Badge](http://img.shields.io/badge/Past%20blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/spqjeks)](https://blog.naver.com/spqjeks)
 
 ### Connect with me!
@@ -9,18 +9,6 @@
 or
 [![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spqjeks@gmail.com)](mailto:spqjeks@gmail.com)
   
-  
-  
-  <a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <!--
 **Dan-Doit/Dan-Doit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
