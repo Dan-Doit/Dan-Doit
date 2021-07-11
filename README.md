@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### Learn with me!
-[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20blog-34E0A1?style=flat-square&logo=Vimeo&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
-[![Past Blog Badge](http://img.shields.io/badge/Past%20blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/spqjeks)](https://blog.naver.com/spqjeks)
+[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20Blog-34E0A1?style=flat-square&logo=Vimeo-34E0A1&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
+[![Past Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/spqjeks)](https://blog.naver.com/spqjeks)
 
 ### Connect with me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spqjeks@gmail.com)](mailto:spqjeks@gmail.com)
