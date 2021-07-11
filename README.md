@@ -9,6 +9,18 @@
 or
 [![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spqjeks@gmail.com)](mailto:spqjeks@gmail.com)
   
+  
+  
+  <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <!--
 **Dan-Doit/Dan-Doit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
