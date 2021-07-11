@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ### Learn with me!
-[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20Blog-34E0A1?style=flat-square&logo=Vimeo&logo-color=white&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
+[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20Blog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
 [![Past Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/spqjeks)](https://blog.naver.com/spqjeks)
 
 ### Connect with me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spqjeks@gmail.com)](mailto:spqjeks@gmail.com)
 or
-[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spqjeks@gmail.com)](mailto:spqjeks@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-dcffe4?style=flat-square&logo=Naver&logoColor=white&link=mailto:spqjeks@naver.com)](mailto:spqjeks@naver.com)
   
 
 <!--
