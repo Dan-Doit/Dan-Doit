@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Learn with me!
-[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20blog-blue?style=#1AB7EA&logo=Viemo&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
+[![Current Tech Blog Badge](http://img.shields.io/badge/Current%20blog-blue?style=flat-square&logo=Viemo&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
 [![Past Blog Badge](http://img.shields.io/badge/Past%20blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/spqjeks)](https://blog.naver.com/spqjeks)
 
 ### Connect with me!
