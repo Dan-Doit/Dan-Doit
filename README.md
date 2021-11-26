@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=282c34&height=150&section=header&text=Hi!%20there&fontSize=80&fontColor=a95a60)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=282c34&height=100&section=header&text=Hi!%20there&fontSize=50&fontColor=a95a60)
   
 ### Learn with me!
 [![Current Tech Blog Badge](http://img.shields.io/badge/Current%20Blog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
