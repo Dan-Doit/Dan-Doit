@@ -13,7 +13,6 @@ or
 [![Naver Badge](https://img.shields.io/badge/Naver-dcffe4?style=flat-square&logo=Naver&link=mailto:spqjeks@naver.com)](mailto:spqjeks@naver.com)
 <br>
 
-<div align="center">
 ### What I AM Stacking
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
