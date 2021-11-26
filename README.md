@@ -2,18 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=282c34&height=100&section=header&text=Hi!%20everyone!&fontSize=50&fontColor=a95a60)
   
+<br>
 ### Learn with me!
 [![Current Tech Blog Badge](http://img.shields.io/badge/Current%20Blog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
 [![Past Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/spqjeks)](https://blog.naver.com/spqjeks)
 ---
-<br><br><br>
+<br><br>
   
 ### Connect with me!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spqjeks@gmail.com)](mailto:spqjeks@gmail.com)
 or
 [![Naver Badge](https://img.shields.io/badge/Naver-dcffe4?style=flat-square&logo=Naver&link=mailto:spqjeks@naver.com)](mailto:spqjeks@naver.com)
 ---
-<br><br><br>
+<br><br>
 
 ### What I AM Stacking
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
