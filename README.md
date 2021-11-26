@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20there&fontSize=90)
-<br>
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20there&fontSize=90)
   
 ### Learn with me!
 [![Current Tech Blog Badge](http://img.shields.io/badge/Current%20Blog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@scg0007)](https://velog.io/@scg0007)
