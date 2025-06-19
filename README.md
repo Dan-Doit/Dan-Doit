@@ -4,7 +4,7 @@
 
 <br>
 
-## 👋 Hi! I'm a Kotlin/Java Spring Backend Developer
+## 👋 Hi! I'm a Backend Server Developer Dan
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0f4c75&center=true&vCenter=true&width=500&lines=Kotlin+%2B+Java+%2B+Spring+Backend;Building+RESTful+APIs;Always+Learning+New+Things" alt="Typing SVG" />
