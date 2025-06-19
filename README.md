@@ -4,15 +4,13 @@
 
 <br>
 
-## 👋 Hello! I'm a Kotlin/Java Spring Backend Developer
+## 👋 Hi! I'm a Kotlin/Java Spring Backend Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0f4c75&center=true&vCenter=true&width=500&lines=Kotlin+%2B+Java+%2B+Spring+Backend;Building+RESTful+APIs;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <br>
-
----
 
 ## 📝 **Blog**
 <p align="center">
@@ -23,8 +21,6 @@
     <img src="https://img.shields.io/badge/Archive%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## 📧 **Contact**
 <p align="center">
@@ -38,7 +34,6 @@
 
 <br>
 
----
 
 ## 🛠️ **Primary Tech Stack**
 
@@ -86,44 +81,6 @@
 
 <br>
 
----
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=scg0007&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scg0007&layout=compact&langs_count=6&theme=default&hide_border=true"/>
-</p>
-
----
-
-## 🌱 **What I'm Working On**
-
-```kotlin
-@Component
-class BackendDeveloper {
-    
-    private val primaryStack = listOf("Kotlin", "Java", "Spring Boot")
-    private val currentFocus = listOf(
-        "Microservices with Spring Cloud",
-        "Reactive Programming with WebFlux",
-        "Event-Driven Architecture",
-        "Clean Architecture & DDD"
-    )
-    
-    @Autowired
-    private lateinit var continuousLearning: LearningService
-    
-    fun buildBackendSystems(): String {
-        return "Creating scalable REST APIs with Kotlin/Java + Spring 🚀"
-    }
-    
-    fun keepGrowing() = continuousLearning.neverStop()
-}
-```
-
----
-
 ## 🎯 **Backend Development Focus**
 
 - **🔧 RESTful API Development** with Spring Boot
@@ -131,12 +88,6 @@ class BackendDeveloper {
 - **⚡ Reactive Programming** with WebFlux & Coroutines
 - **🏗️ Microservices Architecture** with Spring Cloud
 - **☁️ Cloud-Native Development** on AWS
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=scg0007&label=Profile%20views&color=0f4c75&style=flat-square"/>
-</p>
 
 <p align="center">
   <i>Passionate about building robust backend systems with Kotlin/Java + Spring 💻</i>
