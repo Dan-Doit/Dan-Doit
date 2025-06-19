@@ -20,6 +20,7 @@ or
 
 ### What I AM Stacking
 ![Java](https://img.shields.io/badge/Java-%23316192.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23316192.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%23316192.svg?style=for-the-badge&logo=JPA&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-%23316192.svg?style=for-the-badge&logo=QueryDSL&logoColor=white)
@@ -28,5 +29,9 @@ or
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23316192.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=Amazon%20Redshift&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white)
 
 </div>
