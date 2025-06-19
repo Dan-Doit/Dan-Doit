@@ -84,9 +84,13 @@
 ## 🎯 **Backend Development Focus**
 
  **🔧 RESTful API Development** with Spring Boot
+ 
  **📊 Database Design & Optimization** with JPA/QueryDSL  
+ 
  **⚡ Reactive Programming** with WebFlux & Coroutines
+ 
  **🏗️ Microservices Architecture** with Spring Cloud
+ 
  **☁️ Cloud-Native Development** on AWS
 
 <p align="center">
