@@ -83,11 +83,11 @@
 
 ## 🎯 **Backend Development Focus**
 
-- **🔧 RESTful API Development** with Spring Boot
-- **📊 Database Design & Optimization** with JPA/QueryDSL  
-- **⚡ Reactive Programming** with WebFlux & Coroutines
-- **🏗️ Microservices Architecture** with Spring Cloud
-- **☁️ Cloud-Native Development** on AWS
+ **🔧 RESTful API Development** with Spring Boot
+ **📊 Database Design & Optimization** with JPA/QueryDSL  
+ **⚡ Reactive Programming** with WebFlux & Coroutines
+ **🏗️ Microservices Architecture** with Spring Cloud
+ **☁️ Cloud-Native Development** on AWS
 
 <p align="center">
   <i>Passionate about building robust backend systems with Kotlin/Java + Spring 💻</i>
