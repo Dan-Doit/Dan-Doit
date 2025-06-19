@@ -1,9 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0f4c75&height=120&section=header&text=Kotlin%20/%20Java%20Spring%20Backend%20Developer&fontSize=32&fontColor=ffffff)
-
-<br>
-
 ## 👋 Hi! I'm a Backend Server Developer Dan
 
 <p align="center">
